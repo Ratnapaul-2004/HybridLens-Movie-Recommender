@@ -33,7 +33,7 @@ A hybrid movie recommendation engine that intelligently combines content-based f
 - Git & GitHub for version control
 
 📂 Project Structure
-
+```
 HybridLens-Movie-Recommender/
 │── data/
 │   ├── tmdb_5000_movies.csv
@@ -46,6 +46,7 @@ HybridLens-Movie-Recommender/
 │── .gitignore
 │── README.md
 │── app.py       (if deployed)
+```
 
 ▶️ How It Works
 
